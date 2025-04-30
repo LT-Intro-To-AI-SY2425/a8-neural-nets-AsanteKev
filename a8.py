@@ -1,3 +1,4 @@
+#Kevin Asante
 from neural import *
 
 print("\n\nTraining XOR\n\n")
